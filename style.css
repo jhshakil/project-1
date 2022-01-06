@@ -28,12 +28,24 @@ h3 {
 }
 .flex-display {
     display: flex;
-    margin: 0 3%;
+    margin: 0 7%;
 }
 
 .half-width {
     width: 50%;
-    padding: 2% 5%;
+    padding: 2% 2%;
+    margin: 50px 0;
+}
+
+.half-width-1 {
+    width: 70%;
+    padding: 2% 2%;
+    margin: 50px 0;
+}
+
+.half-width-2 {
+    width: 30%;
+    padding: 2% 2%;
     margin: 50px 0;
 }
 
@@ -47,8 +59,12 @@ h3 {
 }
 
 .image-width {
-    width: 70%;
-    margin: 0 2%;
+    width: 60%;
+    margin: 0 25%;
+}
+
+.image-width-1 {
+    width: 90%;
 }
 
 .text-center {
